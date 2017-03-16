@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News Arround The World</string>
+    <string name="no_connection">Opps, No internet connection try again.</string>
+    <string name="no_news">Opps, Lost internet connection try again</string>
+</resources>
